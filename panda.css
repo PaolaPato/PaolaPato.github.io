@@ -66,6 +66,14 @@ h1 {
     margin-top: -20px;
 }
 
+h1:hover{
+    box-shadow:0 0.5em 0.5em -0.4em #3c4056; 
+    transition: all 1s ease;
+    transform: translateY(-20px);
+    
+    
+}
+
 h2 {
     font-family: "Playwrite GB S", cursive;
     font-optical-sizing: auto;
