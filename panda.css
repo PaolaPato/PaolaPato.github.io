@@ -180,3 +180,7 @@ nav p {
 a img {
     box-shadow: 0 0.5em 0.5em -0.4em #3c4056;
 }
+a img:hover{
+    transform:translateY(-0.25em)
+    transition:all 1s ease;
+}
